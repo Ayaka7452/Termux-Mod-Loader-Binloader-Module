@@ -1,0 +1,4 @@
+pkgname=[Termod]
+version=[1.2]
+execpath=[termod.sh]
+execname=[termod]
