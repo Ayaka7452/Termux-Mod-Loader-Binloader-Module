@@ -3,7 +3,6 @@ A binloader mod that provides interfaces to inject files to Termux app
 ## Installation
 Installs it using universal binloader mod installation method. see binloader repository guide to get more info
 ## Usage
-TERMOD - patch termux with mod packager"
 Usage: termod [Options] [Param]"
 install - installs a tmod<br>
 remove - removes a tmod<br>
